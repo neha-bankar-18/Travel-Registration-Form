@@ -24,4 +24,4 @@ A web-based Travel Registration Form built using **Java (JSP & Servlets)**, **HT
    git clone https://github.com/neha-bankar-18/Travel-Registration-Form.git
 2. **Deploy to Tomcat**
    Run the project on a local Tomcat server.
-   Access the form at http://localhost:8080/Travel-Registration-Form/
+   Access the form at http://localhost:8080/travelease/
